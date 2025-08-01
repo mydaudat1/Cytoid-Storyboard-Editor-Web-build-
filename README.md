@@ -1,4 +1,5 @@
 **Lưu ý**: Đây là 1 clone, không phải repo gốc của tài khoản này. Tôi chỉ deploy repo này thôi. Repo gốc: https://github.com/tigorlazuardi/cytoid-storyboard-editor?tab=readme-ov-file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
